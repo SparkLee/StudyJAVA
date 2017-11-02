@@ -1,2 +1,4 @@
 # IntelliJ IDEA集成开发环境的工程配置文件目录
 .idea
+out
+target
